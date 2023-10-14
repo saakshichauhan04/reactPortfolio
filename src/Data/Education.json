@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "coursename":"B.Tech in Computer Science and Engineering",
+        "courseyear":"2021-2025",
+        "institute":"VIT University, Vellore",
+        "grade":" "
+    },
+    {
+        "id":2,
+        "coursename":"Pre-University",
+        "courseyear":"2021",
+        "institute":"The Chintels School, Kanpur",
+        "grade":"95%"
+    }
+   
+]
